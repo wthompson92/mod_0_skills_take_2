@@ -1,0 +1,10 @@
+Object: History 101
+45 #minutes
+"Mrs. Smith"
+["Amy"  , "Ben" , "Carrie"]
+"Room 234"
+
+Methods
+Replaces "Mrs. Smith" , with "Mrs. Doe"
+["Amy"  , "Ben" , "Carrie"] + "Doug" --> ["Amy"  , "Ben" , "Carrie" , "Doug"]
+(45 - 32) time_remaining_class = 13 #minutes  
