@@ -1,0 +1,13 @@
+Class: Students
+
+Attributes
+- student_name (string)
+- date_started_at_school (datetime)
+- student_course_list (array)
+- student_major (string)
+
+Methods
+
+- add_course (student_course_list + new course)
+- calculate_days_at_school (current_date - date_started_at_school)
+- change_major (replace student_major w new major)
