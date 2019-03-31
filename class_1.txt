@@ -1,0 +1,15 @@
+School
+
+Class: Course
+
+Attributes
+
+- course_length (integer) #minutes
+- instructor_name (string)
+- names_of_students_enrolled (array)
+- course_location (string)
+
+Methods
+-change_instructor (changes instructor_name  attribute new instructor name)
+-add new_student to students_ enrolled (students_enrolled + new student name)
+-time_remaining_class (course_length - minutes_spent_in_class_)
