@@ -1,4 +1,4 @@
-Class: Students
+Class: Student
 
 Attributes
 - student_name (string)
