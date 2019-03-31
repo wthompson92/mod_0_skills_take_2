@@ -1,0 +1,17 @@
+Object: Steve
+
+Values
+
+- "Steve"
+- 9/21/2018
+- ["Phil 101" , "CS 101" "Chem 101"]
+- "Philosophy"
+
+Methods
+
+- ["Phil 101" , "CS 101" "Chem 101"] + "Hist 101" -->
+  ["Phil 101" , "CS 101" "Chem 101" "Hist 101"}
+
+- (9/1/2018 - 9/28/2018) --> calculate_days_at_school = 27
+
+- Replace "Philosophy" w "CS"  as student_major
